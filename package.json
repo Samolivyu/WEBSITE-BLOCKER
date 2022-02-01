@@ -1,0 +1,9 @@
+{
+  "name": "website-blocker",
+  "version": "0.0.0",
+  "description": "WEBSITE BLOCKER",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
