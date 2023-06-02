@@ -29,7 +29,6 @@ const webRequestFlags = [
 // Register our function that takes action when a request
 // is initiated and matches the provided filter that we
 // specified in the options.
-//
 // Because we outsourced the URL filtering to chrome itself
 // all we need to do here is always cancel the request (as
 // it matches the filter of unwanted webpages).
